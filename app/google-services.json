@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "742105067605",
+    "project_id": "trabajar-y-vivir-en-la-yuma"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742105067605:android:ec4f291434f68a6f",
+        "android_client_info": {
+          "package_name": "com.android.anti1991.trabajaryvivirenlayuma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742105067605-ld4cj85dl9gg4r9lcmbl8k0jnl18d8ss.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "742105067605-l5c3l27pu1afhic0t0uid4l5hemd0k9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.anti1991.trabajaryvivirenlayuma",
+            "certificate_hash": "f7f03e0372f11a27f3891d818951a52c2c25c59a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL0KG2KTzxxnBA6f7ZZRiCuqpB3Fch2oY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
